@@ -1,0 +1,10 @@
+
+<resources>
+    <string name="app_name">wordcounterapp</string>
+    <string-array name="function">
+        <item>counting word</item>
+        <item>counting characters</item>
+    </string-array>
+    <string name="btn_label">Count</string>
+    <string name="chars_selection">Chars</string>
+</resources>
